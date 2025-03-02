@@ -1,0 +1,16 @@
+/* Import figtree font family */
+@import url("https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap");
+
+:root {
+  /* colors */
+  --yellow: hsl(47, 88%, 63%);
+  --white: hsl(0, 0%, 100%);
+  --gray-500: hsl(0, 0%, 42%);
+  --gray-950: hsl(0, 0%, 7%);
+
+  /* fonts */
+  --font-family: "Figtree", monospace, serif;
+  --base-font-size: 1.6rem;
+  --regular-font-weight: 400;
+  --bold-font-weight: 800;
+}
